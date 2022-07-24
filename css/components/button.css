@@ -1,0 +1,15 @@
+.btn-brown{
+	background-color: #E3CAA5;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bolder;
+	font-family: "Roboto", sans-serif;
+	transition: color 0.3s ease;
+	transition: background-color 0.3s ease;
+}
+.btn-brown:hover{
+	background-color: transparent;
+	color: blanchedalmond;
+}
+
